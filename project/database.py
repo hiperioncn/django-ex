@@ -19,7 +19,7 @@ def config():
     name = os.getenv('DATABASE_NAME')
     if not name and engine == engines['sqlite']:
         name = os.path.join(settings.BASE_DIR, 'db.sqlite3')
-    return {
+    result = {
         'ENGINE': engine,
         'NAME': name,
         'USER': os.getenv('DATABASE_USER'),
@@ -27,3 +27,5 @@ def config():
         'HOST': os.getenv('{}_SERVICE_HOST'.format(service_name)),
         'PORT': os.getenv('{}_SERVICE_PORT'.format(service_name)),
     }
+    print result
+    return result

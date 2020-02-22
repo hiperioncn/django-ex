@@ -1,4 +1,5 @@
 import os
+from datetime import *
 from django.shortcuts import render
 from django.conf import settings
 from django.http import HttpResponse
@@ -20,3 +21,14 @@ def index(request):
 
 def health(request):
     return HttpResponse(PageView.objects.count())
+
+def hello(request):
+    context = {}
+    context['hello'] = 'Hello World! Replace Param! '
+    context['param1'] = 'Test "hi",\ '' '
+    context['pub_date'] = date(2017, 8, 18)
+    return render(request, 'hello.html', context)
+
+
+def showDetail(request):
+    return render(request, 'json.txt')

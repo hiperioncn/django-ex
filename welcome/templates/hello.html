@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% extends "base.html" %}
+{% block mainbody %}
+    <p>继承了 base.html 文件</p>
+{% endblock %}
+<h1>{{ hello|lower }}</h1>
+{{ hello|lower }}<br/>
+{{ hello|first|upper }}<br/>
+{{ hello|truncatewords:"2" }}<br/>
+{{ param1|addslashes}}<br/>
+{{ pub_date|date:"F j, Y" }}<br/>
+
+</body>
+</html>

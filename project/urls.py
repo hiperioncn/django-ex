@@ -1,14 +1,16 @@
 from django.conf.urls import include, url
 from django.contrib import admin
 
-from welcome.views import index, health
+from welcome.views import health, hello, showDetail
 
 urlpatterns = [
     # Examples:
     # url(r'^$', 'project.views.home', name='home'),
     # url(r'^blog/', include('blog.urls')),
 
-    url(r'^$', index),
+    # url(r'^$', index),
+    url(r'^$', hello),
     url(r'^health$', health),
     url(r'^admin/', include(admin.site.urls)),
+    url(r'^showdetail/', showDetail)
 ]

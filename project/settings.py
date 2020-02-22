@@ -44,6 +44,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'debug_toolbar',
     'welcome',
+    'django-ex.apps.TestModel',
 )
 
 MIDDLEWARE_CLASSES = (

@@ -1,0 +1,311 @@
+{
+  "C_or_F": true,
+  "BatteryNotification": true,
+  "CityName": "Tianjin",
+  "Following_User": [
+    {
+      "username": "huangdan728@gmail.com",
+      "country": "CN",
+      "userid": 45,
+      "DeviceID": "E076D0D10283",
+      "nickname": "",
+      "id": 45
+    },
+    {
+      "username": "colony@valinet.com",
+      "country": "US",
+      "userid": 756,
+      "DeviceID": "E076D0D10283",
+      "nickname": "colony",
+      "id": 756
+    },
+    {
+      "username": "gaoyuan@ibloomsky.com",
+      "country": "CN",
+      "userid": 1221,
+      "DeviceID": "E076D0D10283",
+      "nickname": "gaoyuan",
+      "id": 1221
+    },
+    {
+      "username": "haibo@bloomsky.com_f",
+      "country": "US",
+      "userid": 2476,
+      "DeviceID": "E076D0D10283",
+      "nickname": "haibo",
+      "id": 2476
+    },
+    {
+      "username": "yang_taiz@hotmail.com",
+      "country": "???",
+      "userid": 3719,
+      "DeviceID": "E076D0D10283",
+      "nickname": "TTzee",
+      "id": 3719
+    },
+    {
+      "username": "hiperion.cn@gmail.com_f",
+      "country": "US",
+      "userid": 9373,
+      "DeviceID": "E076D0D10283",
+      "nickname": "hiperion.cn",
+      "id": 9373
+    },
+    {
+      "username": "donbarnes@mac.com",
+      "country": "US",
+      "userid": 12815,
+      "DeviceID": "E076D0D10283",
+      "nickname": "donbarnes",
+      "id": 12815
+    },
+    {
+      "username": "jpitre1959@gmail.com",
+      "country": "US",
+      "userid": 14030,
+      "DeviceID": "E076D0D10283",
+      "nickname": "jpitre1959",
+      "id": 14030
+    },
+    {
+      "username": "yowlkiller@a.com",
+      "country": "CN",
+      "userid": 57737,
+      "DeviceID": "E076D0D10283",
+      "nickname": "yowlkiller",
+      "id": 57737
+    },
+    {
+      "username": "kwjbng@gmail.com",
+      "country": "US",
+      "userid": 58263,
+      "DeviceID": "E076D0D10283",
+      "nickname": "kwjbng",
+      "id": 58263
+    },
+    {
+      "username": "roger.mamer@gmail.com",
+      "country": "US",
+      "userid": 59520,
+      "DeviceID": "E076D0D10283",
+      "nickname": "roger.mamer",
+      "id": 59520
+    },
+    {
+      "username": "wadel@personainternet.com",
+      "country": "CA",
+      "userid": 69151,
+      "DeviceID": "E076D0D10283",
+      "nickname": "wadel",
+      "id": 69151
+    },
+    {
+      "username": "maming@fromd.net",
+      "country": "CN",
+      "userid": 70148,
+      "DeviceID": "E076D0D10283",
+      "nickname": "maming",
+      "id": 70148
+    },
+    {
+      "username": "dennisrogers@ihug.co.nz_f",
+      "country": "NZ",
+      "userid": 70376,
+      "DeviceID": "E076D0D10283",
+      "nickname": "dennisrogers",
+      "id": 70376
+    },
+    {
+      "username": "dennisrogers@ihug.co.nz",
+      "country": "NZ",
+      "userid": 70759,
+      "DeviceID": "E076D0D10283",
+      "nickname": "dennisrogers",
+      "id": 70759
+    },
+    {
+      "username": "wendy@ritchison.com",
+      "country": "US",
+      "userid": 70809,
+      "DeviceID": "E076D0D10283",
+      "nickname": "wendy",
+      "id": 70809
+    },
+    {
+      "username": "yowlkiller@bloomsky.com",
+      "country": "CN",
+      "userid": 72125,
+      "DeviceID": "E076D0D10283",
+      "nickname": "yowlkiller",
+      "id": 72125
+    },
+    {
+      "username": "ocace92@gmail.com_f",
+      "country": "US",
+      "userid": 86997,
+      "DeviceID": "E076D0D10283",
+      "nickname": "ocace92",
+      "id": 86997
+    },
+    {
+      "username": "chris1984rodriguez@yahoo.com_f",
+      "country": "US",
+      "userid": 89836,
+      "DeviceID": "E076D0D10283",
+      "nickname": "chris1984rodriguez",
+      "id": 89836
+    },
+    {
+      "username": "newuser422@bsky.co",
+      "country": "CN",
+      "userid": 91380,
+      "DeviceID": "E076D0D10283",
+      "nickname": "newuser422",
+      "id": 91380
+    },
+    {
+      "username": "y7013n@gmail.com",
+      "country": "JP",
+      "userid": 95414,
+      "DeviceID": "E076D0D10283",
+      "nickname": "y7013n",
+      "id": 95414
+    },
+    {
+      "username": "medusa@allgaeu.org",
+      "country": "DE",
+      "userid": 95678,
+      "DeviceID": "E076D0D10283",
+      "nickname": "medusa",
+      "id": 95678
+    },
+    {
+      "username": "lilin@myrual.me",
+      "country": "CN",
+      "userid": 95892,
+      "DeviceID": "E076D0D10283",
+      "nickname": "Myrummm",
+      "id": 95892
+    },
+    {
+      "username": "h1@ibloomsky.com",
+      "country": "US",
+      "userid": 104855,
+      "DeviceID": "E076D0D10283",
+      "nickname": "h1",
+      "id": 104855
+    },
+    {
+      "username": "weatherman1@gmail.com_f",
+      "country": "US",
+      "userid": 105998,
+      "DeviceID": "E076D0D10283",
+      "nickname": "weatherman1",
+      "id": 105998
+    }
+  ],
+  "VideoList_C": [
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-19_C.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-20_C.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-21_C.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-22_C.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-23_C.mp4"
+  ],
+  "Storm": {
+    "Rain_mm": 0.0,
+    "WindGust_kph": 6.41,
+    "SustainedWindSpeed_2min_kph": 2.81,
+    "RainRate_mm": 0.0,
+    "RainDaily": 0.0,
+    "WindSpeed": 0,
+    "Rain": 0.0,
+    "WindGust": 23,
+    "SustainedWindSpeed": 9,
+    "SustainedWindSpeed_2min": 8,
+    "Type": 1,
+    "SustainedWindSpeed_mph": 1.9,
+    "RecordTS": 1500884924,
+    "WindGust_mps": 1.78,
+    "TS": 1500884924,
+    "UV_level": 1,
+    "WindGust_mph": 3.98,
+    "SustainedWindSpeed_mps": 0.85,
+    "WindSpeed_kph": 0.0,
+    "RainDailyNew_mm": 0.0,
+    "SustainedWindSpeed_2min_mps": 0.78,
+    "RainDailyNew": 0.0,
+    "WindSpeed_mph": 0.0,
+    "SustainedWindDirection": 5,
+    "WindSpeed_mps": 0,
+    "RainDaily_inch": 0.0,
+    "RainDailyNew_inch": 0.0,
+    "SustainedWindSpeed_2min_mph": 1.74,
+    "RainRate": 0.0,
+    "UV_level_max": 11,
+    "UV": 1294,
+    "DeviceID2": "40ed98c00018",
+    "RainDaily_mm": 0.0,
+    "DeviceID1": "85",
+    "Voltage": 217,
+    "SustainedWindSpeed_kph": 3.06,
+    "Rain_inch": 0.0,
+    "SkyDeviceID": "E076D0D10283",
+    "WindDirection": 6,
+    "RainRate_inch": 0.0
+  },
+  "PreviewImageList": [
+    "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWrmpSooJk=.jpg",
+    "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWsmJilmpY=.jpg",
+    "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWtl5annpo=.jpg",
+    "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWulpOqnpc=.jpg",
+    "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWunpqon5s=.jpg"
+  ],
+  "DeviceName": "BlueSky",
+  "RainNotification": true,
+  "FullAddress": "Dong Ma Ge Zhuang Lu, Baodi Qu, Tianjin Shi, CN",
+  "RegisterTime": 1481866872,
+  "NumOfFollowers": 25,
+  "Data": {
+    "Luminance": 9999,
+    "seaLevelPressure": 1005,
+    "Temperature": 32.18,
+    "seaLevelPressure_inch": 29.68,
+    "FWVersion2": "1.2.4",
+    "ImageURL": "http://s3-us-west-1.amazonaws.com/bskyimgs/jpxnrKmnqZKkmp2lqJ1lppWvnZWooJY=.jpg",
+    "UVIndex": 9999,
+    "TS": 1500884481,
+    "Rain": false,
+    "Humidity": 65,
+    "ThirdPartyUV": 9999,
+    "Pressure": 1004,
+    "UV_level": 11,
+    "DeviceType": "SKY2",
+    "Pressure_inch": 29.65,
+    "UV_level_max": 11,
+    "Temperature_f": 89.92,
+    "isOffline": false,
+    "FWVersion1": "2.0.9",
+    "Voltage": 2606
+  },
+  "UTC": 8,
+  "LON": 117.21734619140625,
+  "DST": 0,
+  "Owner": "tianhaibo@ibloomsky.com",
+  "is_newzealand": false,
+  "DeviceID": "E076D0D10283",
+  "BoundedStorm": "85",
+  "Searchable": true,
+  "Point": {
+  },
+  "BoundedPoint": "",
+  "VideoList": [
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-19.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-20.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-21.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-22.mp4",
+    "http://s3.amazonaws.com/bskytimelapses/jpxnrKmnqZKkmp2l_8_2017-07-23.mp4"
+  ],
+  "LAT": 39.73167037963867,
+  "ALT": 10.0,
+  "StreetName": "Dong Ma Ge Zhuang Lu"
+}
